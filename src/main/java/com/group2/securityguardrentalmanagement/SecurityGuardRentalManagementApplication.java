@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SecurityGuardRentalManagementApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SecurityGuardRentalManagementApplication.class, args);
-	}
+		pringApplication.run(SecurityGuardRentalManagementApplication.class, args);
+	
 
 }
